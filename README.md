@@ -5,6 +5,9 @@ Cybersecurity Fundamentals – 7 Day Roadmap
 
 This repository contains my structured 7-day journey into cybersecurity fundamentals. Each day focuses on specific areas required to build a strong theoretical foundation. Notes are extensive (270+ pages) and include both theoretical and security-oriented perspectives.
 
+NOTES LINK :- [ https://acrobat.adobe.com/id/urn:aaid:sc:AP:d61a3552-a89f-4b76-b5da-105ab9e8f98e ]
+NOTES LINK :- [ https://acrobat.adobe.com/id/urn:aaid:sc:AP:d61a3552-a89f-4b76-b5da-105ab9e8f98e ] 
+
 📘 Day 2 – Networking Fundamentals in Cybersecurity
 
    { 1. Networking in Security Context }
@@ -111,6 +114,7 @@ Day 1: Set the foundation with security principles and governance.
 
 Day 2: Built deep networking knowledge, mapped directly to cyber threats and defenses.
 This created the groundwork to analyze real attacks, understand traffic, and apply defensive controls.
+
 
 
 ## Author
